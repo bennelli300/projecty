@@ -1,0 +1,2 @@
+# projecty
+linux practice
